@@ -1,13 +1,14 @@
 # Softex Desenvolvedor FrontEnd (HTML/CSS)
-Estou animado para começar este curso de HTML, CSS e JavaScript. Espero aprender muito sobre como construir sites bonitos e interativos.
+O curso HTML/CSS é uma ótima oportunidade para aprender sobre as bases do desenvolvimento web. Vou aprender sobre HTML, CSS e JavaScript, que são as três principais linguagens de programação usadas para construir sites. Também vou aprender sobre SEO, que é a otimização de sites para mecanismos de pesquisa. Estou animado para aprender essas habilidades e usá-las para construir sites incríveis 🚀.
 
-Aqui estão algumas coisas que estou esperando do curso:
+Objetivos:
 
-Aprender sobre a semântica HTML e como usar o HTML para estruturar meu código de forma eficiente.
-Aprender sobre técnicas de estilização em CSS e como usar o CSS para criar sites bonitos e responsivos.
-Aprender sobre programação em JavaScript e como usar o JavaScript para adicionar interatividade aos meus sites.
-Aprender sobre os pré-compiladores como SASS e como usar o SASS para criar estilos mais complexos e poderosos.
-Estou confiante de que este curso me dará as habilidades que preciso para construir sites profissionais e de alta qualidade.
+Ao final do curso, espero ser capaz de:
+
+* Criar sites usando HTML e CSS
+* Usar JavaScript para adicionar interatividade aos meus sites
+* Otimizar meus sites para mecanismos de pesquisa
+* Usar as habilidades que aprendi para construir sites incríveis
 
 Atenciosamente,
 
